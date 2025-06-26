@@ -1,0 +1,6 @@
+# requirements.txt
+
+google-adk
+timezonefinder
+pyngrok
+python-dotenv
